@@ -21,8 +21,8 @@ import streamlit as st
 # from PIL import Image
 
 
-theme = themepy.Theme()
-theme.set_theme("pavel_light")
+# theme = themepy.Theme()
+# theme.set_theme("pavel_light")
 
 
 
