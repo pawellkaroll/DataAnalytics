@@ -2,27 +2,27 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import requests
-from bs4 import BeautifulSoup
-import re
-import time
-import json
-import os
+#import requests
+#from bs4 import BeautifulSoup
+#import re
+#import time
+#import json
+#import os
 from cProfile import run
 import streamlit as st
 import seaborn as sns
-import themepy
+#import themepy
 from highlight_text import HighlightText, ax_text, fig_text
 from io import BytesIO
-import shutil 
-import matplotlib as mpl
+#import shutil 
+#import matplotlib as mpl
 from mplsoccer.pitch import VerticalPitch
 from datetime import datetime
 from PIL import Image
 
 
-theme = themepy.Theme()
-theme.set_theme("pavel_light")
+#theme = themepy.Theme()
+#theme.set_theme("pavel_light")
 
 
 
