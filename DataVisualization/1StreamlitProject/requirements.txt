@@ -1,14 +1,4 @@
 pandas
 numpy
 matplotlib
-os
-cProfile
 streamlit
-seaborn
-themepy
-highlight_text
-io
-shutil 
-mplsoccer
-datetime
-PIL
