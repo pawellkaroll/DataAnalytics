@@ -1,7 +1,6 @@
 pandas
 numpy
 matplotlib
-re
 time
 os
 cProfile
