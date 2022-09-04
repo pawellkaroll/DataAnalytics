@@ -26,10 +26,10 @@ import streamlit as st
 
 
 
-df=pd.read_csv("Data//info_epl_strikers.csv")
+df=pd.read_csv("Data/info_epl_strikers.csv")
 #image_df=pd.read_csv("images_epl_strikers.csv")
-ud_data=pd.read_csv("Data//understat_epl_strikers.csv")
-fb_data=pd.read_csv("Data//fbref_epl_strikers.csv")
+ud_data=pd.read_csv("Data/understat_epl_strikers.csv")
+fb_data=pd.read_csv("Data/fbref_epl_strikers.csv")
 
 fb_data.columns = fb_data.iloc[0] 
 fb_data = fb_data[1:]
